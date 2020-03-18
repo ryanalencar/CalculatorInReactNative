@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 7276,
+  "expoServerNgrokUrl": "https://js-d4m.anonymous.calculadora.exp.direct",
+  "packagerNgrokUrl": "https://packager.js-d4m.anonymous.calculadora.exp.direct",
+  "ngrokPid": 10212
+}
